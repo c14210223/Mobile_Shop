@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134661975857",
+    "project_id": "mobileshop-velg",
+    "storage_bucket": "mobileshop-velg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134661975857:android:d95cba203a49de3e78ca10",
+        "android_client_info": {
+          "package_name": "paba.project.mobileshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Dk2pjllFwHrWIXJ6PZZhQM3qlJh981w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
